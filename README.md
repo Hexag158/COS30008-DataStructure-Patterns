@@ -14,13 +14,18 @@ Learning outcomes:
 ## Directories in this Repository
 - **Problem Set 1: Solution Design in C++:**
 Extending previous solutions to calculate a polygon’s signed area, determine a polynomial’s properties, and explore Bernstein polynomials for Bézier curves.
-- **Problem Set 2: Indexers, Method Overriding, and Lambdas**
+
+- **Problem Set 2: Indexers, Method Overriding, and Lambdas:**
 Creating an integer vector class, then based on it, implementing Bubble Sort and Cocktail Shaker Sort.
-- **Problem Set 3: List Abstract Data Type**
+
+- **Problem Set 3: List Abstract Data Type:**
 Reviewing and implementing classes for a List Abstract Data Type (ADT), using the DoublyLinkedList and DoublyLinkedListIterator classes as a foundation. 
-- **Problem Set 4: Binary Search Trees & In-Order Traversal**
+
+- **Problem Set 4: Binary Search Trees & In-Order Traversal:**
 The implementation of a BinaryTreeNode class, a BinarySearchTree class, and an iterator for the in-order traversal of a binary search tree.
-- **Mid-Term Test**
-The Vigenère Cipher in the domain of cryptography, covering key representation, encoding and decoding processes, object adapters, and iterators. 
-- **Final Test**
+
+- **Mid-Term Test:**
+The Vigenère Cipher in the domain of cryptography, covers key representation, encoding and decoding processes, object adapters, and iterators. 
+
+- **Final Test:**
 Defining a generic 3-ary tree in C++, named TernaryTree, which includes a payload key and an array to store 3-ary subtrees.
